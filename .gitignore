@@ -17,7 +17,6 @@
 mono_crash.*
 
 # Build results
-docs/
 Documentation/_site
 Documentation/api
 [Dd]ebug/
